@@ -24,4 +24,4 @@ We welcome hardware vendors, upstream developers, maintainers, researchers, and 
 
 ## Contact
 
-For inquiries, please contact: [wangjingwei@iscas.ac.cn](mailto:wangjingwei@iscas.ac.cn)
+For inquiries, please contact: [contact@openruyi.cn](mailto:contact@openruyi.cn)
