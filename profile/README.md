@@ -16,7 +16,7 @@ Designed natively for RISC-V, it integrates new RISC-V features early and helps 
 
 - [RVCK](https://github.com/RVCK-Project/rvck) RISC-V Common Kernel Project
 - [openRuyi-Tutorials](https://github.com/openRuyi-Tutorials) Beginner-friendly learning materials and hands-on examples for the RISC-V Linux ecosystem.
-
+- [RuyiAI](https://github.com/RuyiAI-Stack) AI System Software Stack for RISC-V Architecture
 
 ## Get Involved
 
